@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="563a6ef2-37c3-4a2d-bc95-e99d47630c29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VqKIzgidQsnw87CNXOjcSwiqAy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Android" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\imagecompare\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ImageCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageCompare" />
+      <module name="imagecompare" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImageCompare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../hello-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learning-examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xlspaceship" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="563a6ef2-37c3-4a2d-bc95-e99d47630c29" name="Default Changelist" comment="" />
+      <created>1577975110551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577975110551</updated>
+      <workItem from="1577975118296" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="109" key="#Project_Structure" timestamp="1577975335259">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="109" key="#Project_Structure/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577975335259" />
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom" timestamp="1577975627283">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577975627283" />
+    <state width="1557" height="215" key="GridCell.Tab.0.center" timestamp="1577975627283">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577975627283" />
+    <state width="1557" height="215" key="GridCell.Tab.0.left" timestamp="1577975627283">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577975627283" />
+    <state width="1557" height="215" key="GridCell.Tab.0.right" timestamp="1577975627283">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577975627283" />
+    <state x="280" y="25" key="SettingsEditor" timestamp="1577975513877">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="280" y="25" key="SettingsEditor/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577975513877" />
+  </component>
+</project>
